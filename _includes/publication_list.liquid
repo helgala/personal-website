@@ -1,0 +1,11 @@
+{% assign publications = site.data.publications | where: 'category', include.category %}
+<ol class="bibliography" start="{{ publications.first.number }}">
+  {% for publication in publications %}
+    <li value="{{ publication.number }}">
+      {{ publication.citation | escape }}
+      {% if publication.scholar_url %}
+        <a href="{{ publication.scholar_url | escape }}" target="_blank" rel="noopener noreferrer">Google Scholar record</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ol>

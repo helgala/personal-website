@@ -1,0 +1,735 @@
+[
+  {
+    "number": 1,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "D. N. Anwar, H. Bany Salameh, M. Ayyash, H. Elgala and M. Umar, \"Efficient DRL-Based 3D UAV Deployment for Optimizing Mobile User Monitoring Under Wireless Service-Reliability Constraints, \" in IEEE Open Journal of Vehicular Technology, vol. 7, 1948-1963, 2026.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:buQ7SEKw-1sC"
+  },
+  {
+    "number": 2,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Eltokhey, Mahmoud Wafik, Muhammad Salman Bashir, Othman Isam Younus, Zabih Ghassemlooy, Harald Haas, George K. Karagiannidis, Shivani Rajendra Teli et al. \"Optical wireless communications: Illuminating the path for Cooper’s law.\" IEEE Open Journal of the Communications Society (2026).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:wMgC3FpKEyYC"
+  },
+  {
+    "number": 3,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Singh, A., Salameh, H. B., Ayyash, M., & Elgala, H. (2025). Optimal UAV deployment and LED power allocation strategies for VLC-enabled indoor communication networks. Physical Communication, 73, 102884.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:0CzhzZyukY4C"
+  },
+  {
+    "number": 4,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Saksham Dewan, Hany Elgala, Sami Muhaidat, and Paschalis Sofotasios, \"Leveraging multi-task learning to model task relationships in composite VLC waveform demodulation, \" Appl. Opt. 64, 8716-8721 (2025).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:6yz0xqPARnAC"
+  },
+  {
+    "number": 5,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Singh, G., Salameh, H. B., Ayyash, M., Al-Obiedollah, H., & Elgala, H. (2025). On the performance of hybrid TDMA-NOMA-RIS empowered indoor flying networks under dynamic blockages and imperfect SIC. Physical Communication, 71, Article 102691.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:sJsF-0ZLhtgC"
+  },
+  {
+    "number": 6,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Singh, Anand, Haythem Bany Salameh, Moussa Ayyash, and Hany Elgala. \"Energy Efficient OIRS-aided VLC Systems Employing ML-based User Orientation and Obstacle Awareness.\" IEEE Sensors Journal (2024).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:AHdEip9mkN0C"
+  },
+  {
+    "number": 7,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Dewan, Saksham, and Hany Elgala. \"Towards Low Complexity VLC Systems: A Multi-Task Learning Approach.\" Comm&Optics Connect 1, no. 1 (2024): 1-10.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:F1b5ZUV5XREC"
+  },
+  {
+    "number": 8,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Singh, Anand, Haythem Bany Salameh, Moussa Ayyash, and Hany Elgala. \"Performance Analysis of OIRS-Aided Indoor VLC Systems Under Dynamic Human Blockages and Random UE Orientation.\" IEEE Internet of Things Journal (2024).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:LgRImbQfgY4C"
+  },
+  {
+    "number": 9,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Ahmad, Rizwana, Haythem Bany Salameh, Hany Elgala, Moussa Ayyash, Sufyan Almajali, and Reyad El-Khazali. \"Generalized Hybrid LiFi-Wi-Fi UniPHY Learning Framework Towards Intelligent UAV-based Indoor Networks.\" International Journal of Intelligent Networks (2024).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:Ak0FvsSvgGUC"
+  },
+  {
+    "number": 10,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Shrestha, Selina, Shimaa Naser, Lina Bariah, Sami Muhaidat, Paschalis C. Sofotasios, Hany Elgala, and Ernesto Damiani. \"Autoencoder-Based Spatial Modulation for the Next Generation of Wireless Networks.\" IEEE Internet of Things Journal (2024).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:artPoR2Yc-kC"
+  },
+  {
+    "number": 11,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Singh, Anand, Haythem Bany Salameh, Moussa Ayyash, and Hany Elgala. \"Efficient Power Allocation and Saving Framework for VLC-enabled Indoor Networks with Crowded Heterogeneous Obstacles.\" IEEE Sensors Journal (2024).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:Bg7qf7VwUHIC"
+  },
+  {
+    "number": 12,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Dil Nashin Anwar, Rizwana Ahmad, Haythem Bany Salameh, Hany Elgala, and Moussa Ayyash. Performance Analysis of Neural Network-based Unified Physical Layer for Indoor Hybrid LiFi-Wi-Fi Flying Networks. Neural Computing and Applications, Springer London, pages 1-11, 2023.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:BJbdYPG6LGMC"
+  },
+  {
+    "number": 13,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Rizwana Ahmad, Hany Elgala, Sufyan Almajali, Haythem Bany Salameh, and Moussa Ayyash. Unified Physical Layer Learning Framework towards VLC-enabled 6G-Indoor-Flying-Networks. IEEE Internet of Things Journal, 2023."
+  },
+  {
+    "number": 14,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Mohannad Alhafnawi, Haythem Bany Salameh, Ala’Eddin Masadeh, Haitham Al-Obiedollah, Moussa Ayyash, Reyad El-Khazali, and Hany Elgala. A Survey of Indoor and Outdoor UAV-based Target Tracking Systems: Current Status, Challenges, Technologies, and Future Directions. IEEE Access, 2023.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:tH6gc1N1XXoC"
+  },
+  {
+    "number": 15,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Khadr, M., Bany Salameh, H., Ayyash, M., Elgala, H., & Almajali, S. Jamming Resilient Multi-Channel Transmission for Cognitive Radio IoT-based Medical Networks. IEEE Journal of Communications and Networks, 24(6): 666-678, 2022.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:gVv57TyPmFsC"
+  },
+  {
+    "number": 16,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Lina Bariah, Wael Jaafar, Sami Muhaidat, Hany Elgala, and Halim Yanikomeroglu. On the Error Performance of LoRa-enabled Aerial Networks over Shadowed Rician Fading Channels. IEEE Communications Letters, 26(10): 2322-2326, 2022.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:nVrZBo8bIpAC"
+  },
+  {
+    "number": 17,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Bushra Alhijawi, Sufyan Almajali, Hany Elgala, Haythem Bany Salameh, and Moussa Ayyash. A Survey on DoS/DDoS Mitigation Techniques in SDNS: Classification, Comparison, Solutions, Testing Tools and Datasets. Computers and Electrical Engineering, ELSEVIER, 99: 107706, 2022.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:lvd772isFD0C"
+  },
+  {
+    "number": 18,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Haythem A Bany Salameh, Monette H Khadr, Mohammad Al-Quraan, Moussa Ayyash, Hany Elgala, and Sufyan Almajali. Jamming-Aware Simultaneous Multi-Channel Decisions for Opportunistic Access in Delay-Critical IoT-Based Sensor Networks. IEEE Sensors Journal, 22(3): 2889-2898, 2021.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:5MTHONV0fEkC"
+  },
+  {
+    "number": 19,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Ahmed F Hussein, Dola Saha, and Hany Elgala. Mixed-Carrier Communication for Technology Division Multiplexing. Electronics, MDPI, 10(18): 2248, 2021 (This article belongs to the Special Issue Optical Wireless Communications and Networking: A Pathway towards 6G).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:Aul-kAQHnToC"
+  },
+  {
+    "number": 20,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Safaa Hriez, Sufyan Almajali, Hany Elgala, Moussa Ayyash, and Haythem Bany Salameh. A Novel Trust-Aware and Energy-Aware Clustering Method that Uses Stochastic Fractal Search in IoT-Enabled Wireless Sensor Networks. IEEE Systems Journal, 16(2): 2693-2704, 2021.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:_OXeSy2IsFwC"
+  },
+  {
+    "number": 21,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Monette H Khadr, Hany Elgala, Michael Rahaim, Abdallah Khreishah, Moussa Ayyash, and Thomas Little. Machine Learning-Based Security-Aware Spatial Modulation for Heterogeneous Radio-Optical Networks. Proceedings of the Royal Society A, 477(2248): 20200889, 2021.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:GFxP56DSvIMC"
+  },
+  {
+    "number": 22,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Monette H Khadr, Ian Walter, Hany Elgala, and Sami Muhaidat. Machine Learning-Based Massive Augmented Spatial Modulation (ASM) for IoT VLC Systems. IEEE Communications Letters, 25(2): 494-498, 2020.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:nZcligLrVowC"
+  },
+  {
+    "number": 23,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Monette H Khadr and Hany Elgala. Augmented Communications: Spectral Efficiency and Security Enhanced Visible Light Communications by Design. Chinese Optics Letters, 18(9): 090601, 2020.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:OP4eGU-M3BUC"
+  },
+  {
+    "number": 24,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Ahmed F Hussein and Hany Elgala. Wireless Link Pairing toward Secured 6G Networks. Optics Letters, 45(14): 4005-4008, 2020.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:F9fV5C73w3QC"
+  },
+  {
+    "number": 25,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Ahmed F Hussein and Hany Elgala. Design and Spectral Analysis of Mixed-Carrier Communication for Sixth-Generation Networks. Proceedings of the Royal Society A, 476(2238): 20200165, 2020.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:a3BOlSfXSfwC"
+  },
+  {
+    "number": 26,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Ahmed Al Hammadi, Paschalis C Sofotasios, Sami Muhaidat, Mahmoud Al-Qutayri, and Hany Elgala. Non-Orthogonal Multiple Access for Hybrid VLC-RF Networks with Imperfect Channel State Information. IEEE Transactions on Vehicular Technology, 70(1): 398-411, 2020.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:fFSKOagxvKUC"
+  },
+  {
+    "number": 27,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Ha-Vu Tran, Georges Kaddoum, Hany Elgala, Chadi Abou-Rjeily, and Hemani Kaushal. Light-Wave Power Transfer for Federated Learning-Based Wireless Networks. IEEE Communications Letters, 24(7): 1472-1476, 2020.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:3htObqc8RwsC"
+  },
+  {
+    "number": 28,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Elgala, H., Alouini, M. S., Haas, H., Rahaim, M., Tabassum, H., & Watanabe, T. (2019). Introduction to the Special Section on Coexisting Radio and Optical Wireless Deployments (CROWD). IEEE Transactions on Cognitive Communications and Networking, 5(4), 1178-1181.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:OcBU2YAGkTUC"
+  },
+  {
+    "number": 29,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Shao, S., Liu, G., Khreishah, A., Ayyash, M., Elgala, H., Little, T. D. C., & Rahaim, M. (2019). Optimizing Handover Parameters by Q-learning for Heterogeneous Radio-Optical Networks. IEEE Photonics Journal, 12 (1), 1-15.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:ODE9OILHJdcC"
+  },
+  {
+    "number": 30,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Almajali, S., El Diehn, D. I., Bany Salameh, H., Ayyash, M., & Elgala, H. (2019). A distributed multi-layer MEC-cloud architecture for processing large scale IoT-based multimedia applications. Multimedia Tools and Applications, 78(17), 24617-24638.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:4fGpz3EwCPoC"
+  },
+  {
+    "number": 31,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Rahaim, M., Abdalla, I., Ayyash, M., Elgala, H., Khreishah, A., Little, T. D. C. (2019): Welcome to the CROWD: Design Decisions for Coexisting Radio and Optical Wireless Deployments: IEEE Network - The Magazine of Global Internet working, 33(5), 174-182.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:XvxMoLDsR5gC"
+  },
+  {
+    "number": 32,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Mazahir, S., Chaaban, A., Elgala, H., & Alouini, M. S. (2019). Achievable Rates of Multi-Carrier Modulation Schemes for Bandlimited IM/DD Systems. IEEE Transactions on Wireless Communications, 18(3), 1957-1973.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:8d8msizDQcsC"
+  },
+  {
+    "number": 33,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Nauryzbayev, G., Abdallah, M., & Elgala, H. (2018). Outage of SEE-OFDM VLC-NOMA Networks. IEEE Photonics Technology Letters, 31(2), 121-124.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:bz8QjSJIRt4C"
+  },
+  {
+    "number": 34,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Chaaban, A., Chi, N., Elgala, H., Rezki, Z., Safari, M., Sandalidis, H. G., & Imran, M. A. (2018). IEEE Access Special Section Editorial: Optical Wireless Technologies for 5G Communications and Beyond. IEEE Access, 6, 63619-63623.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:kh2fBNsKQNwC"
+  },
+  {
+    "number": 35,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Bany Salameh, H., Almajali, S., Ayyash, M., & Elgala, H. (2018). Batch-based Security-aware Spectrum Sharing with Simultaneous Assignment Decisions in Time-critical IoT Networks with Cognitive Radio Capabilities. Transactions on Emerging Telecommunications Technologies, 29(11), e3317.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:0N-VGjzr574C"
+  },
+  {
+    "number": 36,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Khreishah, A., Shao, S., Gharaibeh, A., Ayyash, M., Elgala, H., & Ansari, N. (2018): A Hybrid RF-VLC System for Energy Efficient Wireless Access: in the IEEE Transactions on Green Communications and Networking, 2(4), 932-944.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:5qfkUJPXOUwC"
+  },
+  {
+    "number": 37,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Bany Salameh, H., Almajali, S., Ayyash, M., & Elgala, H. (2018): Spectrum Assignment in Cognitive Radio Networks for Internet-of-Things Delay-Sensitive Applications under Jamming Attacks: in the IEEE Internet of Things Journal, 5(3), 1904-1913.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:edDO8Oi4QzsC"
+  },
+  {
+    "number": 38,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Shao, S., Khreishah, A., & Elgala, H.: Pixelated VLC-backscattering for Self-Charging Indoor IoT Devices: IEEE Photonics Technology Letters: 29(2): 177-180.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:S16KYo8Pm5AC"
+  },
+  {
+    "number": 39,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Ayyash, M., Elgala, H., Khreishah, A., Jungnickel, V., Little, T. D. C., Shao, S., Rahaim, M., Schulz, D., Hilt, J., & Freund R. (2016): Coexistence of Wi-Fi and LiFi Toward 5G: Concepts, Opportunities, and Challenges: IEEE Communications Magazine, 54(2): 64-71.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:M7yex6snE4oC"
+  },
+  {
+    "number": 40,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Sihua S., Khreishah, A., Ayyash, M., Rahaim, M., Elgala, H., Jungnickel, V., Schulz, D., Little, T. D. C., Hilt, J., & Freund, R. (2015). Design and Analysis of a Visible Light-Communication Enhanced Wi-Fi System. Journal of Optical Communications and Networking, 7(10), 960-973.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:tuHXwOkdijsC"
+  },
+  {
+    "number": 41,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Gancarz, J. E., Elgala, H., & Little, T. D. C. (2015). Overlapping PPM for Band-limited Visible Light Communication and Dimming. Journal of Solid-State Lighting, 2(1), 3.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:lmc2jWPfTJgC"
+  },
+  {
+    "number": 42,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Elgala, H., & Little, T. D. C. (2015). Polar-based OFDM and SC-FDE links Toward Energy-Efficient Gbps Transmission under IM-DD Optical System Constraints. IEEE/OSA Journal of Optical Communications and Networking, 7(2), A277-A284 (Invited).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:KUbvn5osdkgC"
+  },
+  {
+    "number": 43,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Butala, P., Elgala, H., & Little, T. D. C. (2014). Sample Indexed Spatial Orthogonal Frequency Division Multiplexing. Chinese Optics Letters, 12(9), 090602.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:ILKRHgRFtOwC"
+  },
+  {
+    "number": 44,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Gancarz, J. E., Elgala, H., & Little, T. D. C. (2013). Impact of Lighting Requirements on VLC Systems. IEEE Communications Magazine, 51(12), 34-41.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:BUYA1_V_uYcC"
+  },
+  {
+    "number": 45,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Elgala, H., & Little, T. D. C. (2013). Reverse Polarity Optical-OFDM (RPO-OFDM): Dimming Compatible OFDM for Gigabit VLC links. Optics Express, 21(20), 24288-24299.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:IWHjjKOFINEC"
+  },
+  {
+    "number": 46,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Mesleh, R., Elgala, H., & Haas, H. (2012). LED Nonlinearity Mitigation Techniques in Optical Wireless OFDM Communication Systems. Journal of Optical Communications and Networking, 4(11), 865-875.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:8k81kl-MbHgC"
+  },
+  {
+    "number": 47,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2011). Indoor Optical Wireless Communication: Potential and State of the Art. IEEE Communications Magazine, 49(9), 56-62.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:2osOgNQ5qMEC"
+  },
+  {
+    "number": 48,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Mesleh, R., Elgala, H., & Haas, H. (2011). On the performance of different OFDM based optical wireless communication systems. IEEE/OSA Journal of Optical Communications and Networking, 3(8), 620-628.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+    "number": 49,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Mesleh, R., Elgala, H., & Haas, H. (2011). Optical Spatial Modulation. IEEE/OSA Journal of Optical Communications and Networking, 3(3), 234-244.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "number": 50,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Mesleh, R., Elgala, H., Mehmood, R., & Haas, H. (2010). Performance of Optical Spatial Modulation with Transmitters-Receivers Alignment. IEEE Communications Letters, 15(1), 79-81.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "number": 51,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2010). An LED Model for Intensity-modulated Optical Communication Systems. IEEE Photonics Technology Letters, 22(11), 835-837.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:Tyk-4Ss8FVUC"
+  },
+  {
+    "number": 52,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2009). Indoor Broadcasting via White LEDs and OFDM. IEEE Transactions on Consumer Electronics, 55(3), 1127-1134.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:u-x6o8ySG0sC"
+  },
+  {
+    "number": 53,
+    "category": "PEER-REVIEWED JOURNAL ARTICLES",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2009). Non-linearity Effects and Predistortion in Optical OFDM Wireless Transmission using LEDs. International Journal of Ultra-Wideband Communications and Systems, 1(2), 143-150 (Invited).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:UeHWp8X0CEIC"
+  },
+  {
+    "number": 54,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Saksham Dewan and Hany Elgala, End-to-End Learned Non-Power-of-Two Constellations for Adaptive VLC Transmission, IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Abu Dhabi, United Arab Emirates, June 8–11, 2026."
+  },
+  {
+    "number": 55,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Honglan Chen, Hany Elgala, Saksham Dewan and Siyuan Cheng, Optical OFDM Modulation Identification with Deep Learning, IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Abu Dhabi, United Arab Emirates, June 8–11, 2026."
+  },
+  {
+    "number": 56,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "B. Baloch, H. Elgala and S. Dewan, \"Enabling RF Backscattering via Dual-Purpose LiFi Transmitter Design: A Harmonic Extraction Approach,\" 2025 IEEE Middle East Conference on Communications and Networking (MECOM), Cairo, Egypt, 2025, pp. 1-6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:QD3KBmkZPeQC"
+  },
+  {
+    "number": 57,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "A. Singh, H. B. Salameh, M. Ayyash and H. Elgala, \"IRS-Assisted VLC Versus mmWave Indoor Communication Systems: Performance Comparison and Trade-Offs,\" 2025 International Conference on Intelligent Computing, Communication, Networking and Services (ICCNS), Varna, Bulgaria, 2025, pp. 54-59.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:jL-93Qbq4QoC"
+  },
+  {
+    "number": 58,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., & Stanczak, S. Single Block Index Modulation OFDM (SBIM-OFDM). IEEE Middle East Conference on Communications and Networking, November 17–20, 2024, Abu Dhabi, United Arab Emirates, MECOM 2024 [Best Paper Award].",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:2tRrZ1ZAMYUC"
+  },
+  {
+    "number": 59,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mohannad Alhafnawi, Ala’eddin Masadeh, Haythem Bany Salameh, Moussa Ayyash, Reyad El-Khazali, and Hany Elgala. A Review of Indoor UAV-Based Tracking Systems: Classification, Status, and Challenges. In 2022 International Arab Conference on Information Technology (ACIT), IEEE, 2022, pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:5icHVeHT4IsC"
+  },
+  {
+    "number": 60,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Khadr, M., & Elgala, H. (2021). Naive Bayesian-Based Augmented Spatial Modulation (ASM) for VLC Systems. In Signal Processing in Photonic Communications. Optica July 26–30, 2021.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:fbc8zXXH2BUC"
+  },
+  {
+    "number": 61,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Khadr, M., Ross, Anya, & Elgala, H. (2021). Autoencoder Model for OFDM-Based Optical Wireless Communications Systems Employing Augmented Communications. In Signal Processing in Photonic Communications. Optica July 26– 30, 2021.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:a9-T7VOCCH8C"
+  },
+  {
+    "number": 62,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Khadr, M., Elgala, H., Ayyash, M., Almajali, S., & Bany Salameh, H. (2020). Testbed Validation of Security-Aware Channel Assignment in IoT-based Cognitive Radio Networks IEEE World Forum on Internet of Things (WF-IoT), doi: 10.1109/WF-IoT48130.2020.9221302, pp. 1–6."
+  },
+  {
+    "number": 63,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Khadr, M., Bany Salameh, H., Ayyash, M., Almajali, S., & Elgala, H. (2019). Securing IoT Delay-Sensitive Communications with Opportunistic Parallel Transmission Capability. IEEE Global Communications Conference (GLOBECOM), pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:OR75R8vi5nAC"
+  },
+  {
+    "number": 64,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Khadr, M., Elgala, H., Ayyash, M., Little, T. D. C., Rahaim, M., & Khreishah, A. (2019). Technology Independent Security Aware OFDM (SA-OFDM). IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:yFnVuubrUp4C"
+  },
+  {
+    "number": 65,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Khadr, M. and H. Elgala (2019). Augmented Spatial Modulation (ASM): Secure and Efficient IoT Compatible MIMO Based VLC Links. IEEE 30th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), pp. 1-6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:bKqednn6t2AC"
+  },
+  {
+    "number": 66,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Pachpande, P., Khadr, M., Hussein, A., Elgala, H., & Saha, Dola (2019). Autoencoder Model for OFDM-based Optical Wireless Communication. In Signal Processing in Photonic Communications. Optica, SpT2E-3 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:a9-T7VOCCH8C"
+  },
+  {
+    "number": 67,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Walter, I., Khadr, M., & Elgala, H. (2019). Deep Learning Based Optical Camera Communications. In Signal Processing in Photonic Communications. Optica, SpT2E-3 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:HtEfBTGE9r8C"
+  },
+  {
+    "number": 68,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Almajali, S., Bany Salameh, H., Ayyash, M., & Elgala, H. (2019). Extending NS3 to Simulate Cognitive Radio Wireless Networks in a Jammed Environment. 6th International Conference on Software Defined Systems (SDS), pp. 118–122.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:4hFrxpcac9AC"
+  },
+  {
+    "number": 69,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Shao, S., Khan, Z., Liu, G., Khreishah, A., Ayyash, M., Elgala, H., & Rahaim, M. (2019). Optimizing Handover Parameters by Q-learning for Heterogeneous RF-VLC Networks. IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), pp. 1069–1070.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:DJbcl8HfkQkC"
+  },
+  {
+    "number": 70,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Hussein, A., Elgala, H., & Little, T. D. C. (2018). Evolution of Multi-Tier Transmission Towards 5G LiFi Networks. IEEE Global Communications Conference (GLOBECOM), pp. 1–7.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:FAceZFleit8C"
+  },
+  {
+    "number": 71,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Pachpande, P., Khadr, M., Hussein, A., & Elgala, H. (2018). Visible Light Communication Using Deep Learning Techniques. IEEE 39th Sarnoff Symposium, pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:0izLItjtcgwC"
+  },
+  {
+    "number": 72,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Khadr, M., Elgala, H., Ayyash, M., Little, T. D. C., Khreishah, A., & Rahaim, M. (2018). Security Aware Spatial Modulation (SA-SM). IEEE 39th Sarnoff Symposium. pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:anf4URPfarAC"
+  },
+  {
+    "number": 73,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Careem, M., Khadr, M., Hussein, A., Saha, D., Elgala, H., & Dutta, A. (2018). CHRONOS: A Cloud-based hybrid RF-Optical Network Over Synchronous Links. IEEE 5G World Forum (5GWF), 351-356 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:YohjEiUPhakC"
+  },
+  {
+    "number": 74,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Li, Z., Shao, S., Khreishah, A., Ayyash, M., Iman, A., Elgala, H., Rahaim, M., & Little, T. D. C. (2018). Design and Implementation of a Hybrid RF-VLC System with Bandwidth Aggregation. IEEE 14th International Wireless Communications & Mobile Computing Conference (IWCMC), 194-200 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:rmuvC79q63oC"
+  },
+  {
+    "number": 75,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Nauryzbayev, G., Abdallah, M., & Elgala, H. (2018). On the performance of NOMA-enabled spectrally and energy efficient OFDM (SEE-OFDM) for Indoor Visible Light Communications. IEEE 87th Vehicular Technology Conference (VTC Spring), pp. 1–5.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:_axFR9aDTf0C"
+  },
+  {
+    "number": 76,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Bany Salameh, H., Almajali, S., Ayyash, M., & Elgala, H. (2018). Securing Delay-sensitive Cognitive Radio IoT Communications Under Reactive Jamming Attacks: Spectrum Assignment Perspective. Fifth International Conference on Software Defined Systems (SDS), 20-24 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:hCrLmN-GePgC"
+  },
+  {
+    "number": 77,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Almajali, S., Bany Salameh, H., Ayyash, M., & Elgala, H. (2018). A Framework for Efficient and Secured Mobility of IoT Devices in Mobile Edge Computing. Third international conference on fog and mobile edge computing (FMEC), 58-62 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:FPJr55Dyh1AC"
+  },
+  {
+    "number": 78,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Zhang, Z., Chaaban, A., Shen, C., Elgala, H., Ng, T. K., Boon, S. O., & Alouini, M. S. (2018). Worst-case Residual Clipping Noise Power Model for Bit Loading in LACO-OFDM. Global LIFI Congress (GLC), pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:Ug5p-4gJ2f0C"
+  },
+  {
+    "number": 79,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Hussein, A. & Elgala, H. (2018). Lightweight Multi-carrier Modulation for IoT. In Broadband Access Communication Technologies XII. International Society for Optics and Photonics, 10559, p.105590W.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:ruyezt5ZtCIC"
+  },
+  {
+    "number": 80,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Hussein, A., Elgala, H., & Little, T. D. C. (2018). Visible Light Communications: Toward multi-service waveforms. 15th IEEE Annual Consumer Communications & Networking Conference (CCNC), pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:XoXfffV-tXoC"
+  },
+  {
+    "number": 81,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mazahir, S., Chaaban, A., Elgala, H., & Alouini, M. S. (2017). Effective Information Rates of Single-carrier and Multi-carrier Modulation Schemes for Bandwidth Constrained IM/DD Systems. IEEE International Conference on Communications (ICC), pp. 1–6.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:q3CdL3IzO_QC"
+  },
+  {
+    "number": 82,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Bany Salameh, H., Almajali, S., Ayyash, M., & Elgala, H. (2017). Security-aware Channel Assignment in IoT-based Cognitive Radio Networks for Time-critical Applications. Fourth International Conference on Software Defined Systems (SDS), 43-47 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:xtoqd-5pKcoC"
+  },
+  {
+    "number": 83,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Hussein, A., Elgala, H., Fahs, B., & Hella, M. (2017). Experimental Investigation of DCO-OFDM Adaptive Loading using Si PN-based Receiver. 26th Wireless and Optical Communication Conference (WOCC), pp. 1–5.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:Dip1O2bNi0gC"
+  },
+  {
+    "number": 84,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Rahaim, M., Little, T. D. C., Elgala, H., & Govindasamy, S. (2017). An Ultra-Dense IoT Architecture using Hybrid CSMA with Sector Based Scheduling (CSMA/SS) via Visible Light Communications. International Conference on Embedded Wireless Systems and Networks, 335-336 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:foquWX3nUaYC"
+  },
+  {
+    "number": 85,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Ali, R. & Elgala, H. (2016). Energy Efficient LED Layout Optimization for Near-uniform Illumination. 15th International Conference on Solid State Lighting and LED-based Illumination Systems. International Society for Optics and Photonics, 9954, p. 995406.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:kz9GbA2Ns4gC"
+  },
+  {
+    "number": 86,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Butala, P., Elgala, H., & Little, T. D. C. (2015). Performance of Color Shift Keying under Non-Linear System Model and Illumination Constraints. IEEE GLOBECOM Workshops, pp. 1–7.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:e_rmSamDkqQC"
+  },
+  {
+    "number": 87,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mirvakili, A., Koomson, V. J., Rahaim, M., Elgala, H., & Little, T. D. C. (2015). Wireless Access Testbed through Visible Light and Dimming Compatible OFDM. In 2015 IEEE Wireless Communications and Networking Conference (WCNC), 2268-2272 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:LI9QrySNdTsC"
+  },
+  {
+    "number": 88,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., Wilson, S. K., & Little, T. D. C. (2015). Optical Polar OFDM: On the Effect of Time-domain Power Allocation under Power and Dynamic-range Constraints. IEEE Wireless Communications and Networking Conference (WCNC), 31-35 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:kuK5TVdYjLIC"
+  },
+  {
+    "number": 89,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Butala, P., Elgala, H., Little, T. D. C., & Zarkesh-Ha, P. (2014). Multi-wavelength Visible Light Communication System Design. IEEE GLOBECOM Workshops, 530-535 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:g3aElNc5_aQC"
+  },
+  {
+    "number": 90,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Little, T. D. C. & Elgala, H. (2014). Adaptation of OFDM under Visible Light Communications and Illumination Constraints. 48th Asilomar Conference on Signals, Systems and Computers, 1739-1744 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:tYavs44e6CUC"
+  },
+  {
+    "number": 91,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Shao, S., Khreishah, A., Rahaim, M., Elgala, H., Ayyash, M., Little, T. D. C., & Wu, J. (2014). An indoor hybrid Wi-Fi-VLC internet access system. IEEE 11th International Conference on Mobile Ad Hoc and Sensor Systems, 569-574 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:hMsQuOkrut0C"
+  },
+  {
+    "number": 92,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H. & Little, T. D. C. (2014). SEE-OFDM: Spectral and Energy Efficient OFDM for Optical IM/DD Systems. IEEE 25th annual international symposium on personal, indoor, and mobile radio communication (PIMRC), 851-855 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:TIZ-Mc8IlK0C"
+  },
+  {
+    "number": 93,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Butala, P. M., Elgala, H., & Little, T. D. C. (2014). Performance of Optical Spatial Modulation and Spatial Multiplexing with Imaging Receiver. IEEE Wireless Communications and Networking Conference (WCNC), 394-399 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "number": 94,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H. & Thomas DC Little. (2014) P-OFDM: Spectrally Efficient Unipolar OFDM. In Optical Fiber Communication Conference. Optica, 1-3 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:BwyfMAYsbu0C"
+  },
+  {
+    "number": 95,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Butala, P., Elgala, H., & Little, T. D. C. (2013). SVD-VLC: A Novel Capacity Maximizing VLC MIMO System Architecture under Illumination Constraints. IEEE GLOBECOM Workshops, 1087-1092 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:Z5m8FVwuT1cC"
+  },
+  {
+    "number": 96,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mesleh, R., Elgala, H., & Little, T. D. C. (2013). On the Performance Degradation of Optical Wireless OFDM Communication Systems due to Changes in the LED Junction Temperature. In ICT,pp. 1–5.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:qUcmZB5y_30C"
+  },
+  {
+    "number": 97,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mesleh, R., Elgala, H., and Little, T. D. C. (2013) A Novel Method to Mitigate LED Nonlinearity Distortions in Optical Wireless OFDM Systems. In Optical Fiber Communication Conference. Optica, p. JW2A-69.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:GtLg2Ama23sC"
+  },
+  {
+    "number": 98,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Stefan, I., Elgala, H., & Haas, H. (2012). Study of dimming and LED nonlinearity for ACO-OFDM based VLC systems. IEEE Wireless Communications and Networking Conference (WCNC), 990-994 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:KlAtU1dfN6UC"
+  },
+  {
+    "number": 99,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mesleh, R., Elgala, H., & Haas, H. (2012). Performance Analysis of Indoor OFDM Optical Wireless Communication Systems. IEEE Wireless Communications and Networking Conference (WCNC), 1005-1010 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:roLk4NBRz8UC"
+  },
+  {
+    "number": 100,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Ghimire, B., Stefan, I., Elgala, H., & Haas, H. (2011). Time and Frequency Synchronization in Optical Wireless OFDM networks. IEEE 22nd International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 819-823 pp."
+  },
+  {
+    "number": 101,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mesleh, R., Elgala, H., Hammouda, M., Stefan, I., & Haas, H. (2011). Optical Spatial Modulation with Transmitter-Receiver Alignments. 16th European Conference on Networks and Optical Communications, 1-4 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "number": 102,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Stefan, I., Elgala, H., Mesleh, R., O'Brien, D., & Haas, H. (2011). Optical Wireless OFDM System on FPGA: Study of LED Nonlinearity Effects. IEEE 73rd Vehicular Technology Conference (VTC, Spring), pp. 1–5.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:_FxGoFyzp5QC"
+  },
+  {
+    "number": 103,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mesleh, R., Elgala, H., & Haas, H. (2010). On the performance of coded optical spatial modulation. 21st IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 820-824 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:zYLM7Y9cAGgC"
+  },
+  {
+    "number": 104,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2010). Impact of LED Nonlinearities on Optical Wireless OFDM Systems. 21st IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 634-638 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:WF5omc3nYNoC"
+  },
+  {
+    "number": 105,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mesleh, R., Elgala, H., & Haas, H. (2010). An Overview of Indoor OFDM/DMT Optical Wireless Communication Systems. 7th International Symposium on Communication Systems, Networks & Digital Signal Processing (CSNDSP), 566-570 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:eQOLeE2rZwMC"
+  },
+  {
+    "number": 106,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Mesleh, R., Mehmood, R., Elgala, H., & Haas, H. (2010). Indoor MIMO Optical Wireless Communication using Spatial Modulation. IEEE International Conference on Communications (ICC), pp. 1–5.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:IjCSPb-OGe4C"
+  },
+  {
+    "number": 107,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2009). Modeling for Predistortion of LEDs in Optical Wireless Transmission using OFDM. IEEE 10th International Conference on Hybrid Intelligent Systems (HIS), 12-14 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+    "number": 108,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2009). Predistortion in Optical Wireless Transmission using OFDM. IEEE 9th International Conference on Hybrid Intelligent Systems (HIS), 2, 184-189 pp."
+  },
+  {
+    "number": 109,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2009). Practical Considerations for Indoor Wireless Optical System Implementation using OFDM. 10th International Conference on Telecommunications, 25-29 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+    "number": 110,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., Mesleh, R., & Haas, H. (2009). A Study of LED Nonlinearity Effects on Optical Wireless Transmission using OFDM. In 2009 IFIP International Conference on Wireless and Optical Communications Networks, pp. 1–5.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:qjMakFHDy7sC"
+  },
+  {
+    "number": 111,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Elgala, H., Mesleh, R., Haas, H., & Pricope, Bogdan (2007). OFDM Visible Light Wireless Communication based on White LEDs. IEEE 65th Vehicular Technology Conference (VTC-Spring), 2185-2189 pp.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+    "number": 112,
+    "category": "PEER-REVIEWED CONFERENCE PROCEEDINGS",
+    "citation": "Afgani, M. Z., Haas, H., Elgala, H., & Knipp, D. (2006). Visible Light Communication using OFDM. 2nd International Conference on Testbeds and Research Infrastructures for the Development of Networks and Communities (TRIDENTCOM).",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:u5HHmVD_uO8C"
+  },
+  {
+    "number": 113,
+    "category": "PREPRINTS AND TECHNICAL REPORTS",
+    "citation": "Selina Shrestha, Shimaa Naser, Lina Bariah, Sami Muhaidat, Paschalis C Sofotasios, Hany Elgala, and Ernesto Damiani. Autoencoder-Based Spatial Modulation for the Next Generation of Wireless Networks. TechRxiv. 2023.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:artPoR2Yc-kC"
+  },
+  {
+    "number": 114,
+    "category": "PREPRINTS AND TECHNICAL REPORTS",
+    "citation": "Vadeny, D., Chen, Ming, Huang, E., & Elgala, H. (2016). VSLAM and VLC based localization. Microsoft Indoor Localization Competition, Tech. Rep.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:WZBGuue-350C"
+  },
+  {
+    "number": 115,
+    "category": "NON-REFEREED ARTICLE",
+    "citation": "Elgala, H. “Visible Light Communication.” AccessScience, McGraw Hill, 2017."
+  },
+  {
+    "number": 116,
+    "category": "BOOK CHAPTERS",
+    "citation": "Elgala, H., Hussein, A., and Khadr, M. “Energy-Efficient Illumination Toward Green Communications.” In Green Communications for Energy-Efficient Wireless Systems and Networks, edited by H. A. Suraweera, J. Yang, A. Zappone, and J. S. Thompson, chapter 15. Institution of Engineering and Technology, 2020.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=100&pagesize=100&citation_for_view=g59zVOAAAAAJ:8xutWZnSdmoC"
+  },
+  {
+    "number": 117,
+    "category": "BOOK CHAPTERS",
+    "citation": "Mirvakili, A., Elgala, H., Little, T. D. C., and Koomson, V. J. “Dimming and Modulation for VLC-Enabled Lighting.” In Optical Wireless Communications: An Emerging Technology, edited by M. Uysal, C. Capsoni, Z. Ghassemlooy, A. Boucouvalas, and E. Udvary, chapter 18. Springer, 2016.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&citation_for_view=g59zVOAAAAAJ:OTTXONDVkokC"
+  },
+  {
+    "number": 118,
+    "category": "PATENTS",
+    "citation": "Elgala, H., and Little, T. D. C. “System and Method for Embedding Phase and Amplitude into a Real-Valued Unipolar Signal.” U.S. Patent 10,491,305, issued November 26, 2019.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:PoWvk5oyLR8C"
+  },
+  {
+    "number": 119,
+    "category": "PATENTS",
+    "citation": "Hussein, A., and Elgala, H. “Simultaneous Communication and Sensing Through Parallel Transmission of Single-Carrier Modulation, Multi-Carrier Modulation, and Beaconing Signals Using Multifunction Modulating Waveforms.” U.S. provisional patent, SUNY Research Foundation case 010-17-05, October 2017."
+  },
+  {
+    "number": 120,
+    "category": "PATENTS",
+    "citation": "Elgala, H., and Little, T. D. C. “Optical Orthogonal Frequency Division Multiplexing (O-OFDM) System with Pulse-Width Modulation (PWM) Dimming.” U.S. Patent 9,621,268, issued April 11, 2017.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:i2xiXl-TujoC"
+  },
+  {
+    "number": 121,
+    "category": "PATENTS",
+    "citation": "Elgala, H. “Barcode, Sende- und Empfangssignalfolge sowie Kommunikationsvorrichtung” [Barcode, Transmitter-Receiver Signal Sequence, and Communication Device]. German Utility Model DE 20 2012 102 711 U1, published October 22, 2013."
+  },
+  {
+    "number": 122,
+    "category": "PATENTS",
+    "citation": "Elgala, H., and Mesleh, R. “Nonlinearity Compensation in Optical Communication Systems via Alternative Signal Clipping and a Multiple-LED Transmitter.” International Patent Publication WO 2011/082713, published July 14, 2011."
+  },
+  {
+    "number": 123,
+    "category": "PATENTS",
+    "citation": "Haas, H., Mesleh, R., and Elgala, H. “Transmitter for Optical Data Transfer Having a Nonlinear Light Source and Associated Receiver.” International Patent Publication WO 2011/003393, published January 13, 2011."
+  },
+  {
+    "number": 124,
+    "category": "PATENTS",
+    "citation": "Haas, H., Bassow, E., Elgala, H., and Mesleh, R. “Optical Free-Space Data Transmission.” International Patent Publication WO 2009/132877, published November 2, 2009.",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=g59zVOAAAAAJ&cstart=20&pagesize=80&citation_for_view=g59zVOAAAAAJ:3fE2CSJIrl8C"
+  }
+]
