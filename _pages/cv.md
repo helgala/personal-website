@@ -1,12 +1,12 @@
 ---
-layout: cv
+layout: archive
+title: "CV"
 permalink: /cv/
-title: CV
-nav: true
-nav_order: 4
-description: Curriculum vitae of Hany Elgala.
-cv_pdf: /assets/pdf/Hany_Elgala_CV_July_2026.pdf
-cv_format: rendercv
-toc:
-  sidebar: left
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+<iframe src="{{ '/assets/pdf/Hany_Elgala_CV_July_2026.pdf' | relative_url }}" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my CV [here]({{ '/assets/pdf/Hany_Elgala_CV_July_2026.pdf' | relative_url }}).
