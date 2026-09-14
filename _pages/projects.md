@@ -4,21 +4,20 @@ title: projects
 permalink: /projects/
 description: Selected research and academic initiatives led or supported by Hany Elgala.
 nav: true
-nav_order: 2
+nav_order: 3
+display_categories: [research]
+horizontal: false
 ---
 
-Selected research and academic initiatives led or supported by Hany Elgala.
-
-<div class="row row-cols-1 row-cols-md-3">
-  {% assign projects = site.projects | sort: "importance" %}
-  {% for project in projects %}
-    <div class="col mb-4">
-      <a href="{{ project.external_url | default: project.url | relative_url }}"{% if project.external_url %} target="_blank" rel="noopener"{% endif %}>
-        <div class="card hoverable h-100">
-          {% if project.img %}<img src="{{ project.img | relative_url }}" class="card-img-top" alt="{{ project.title }} preview">{% endif %}
-          <div class="card-body"><h2 class="card-title">{{ project.title }}</h2><p class="card-text">{{ project.description }}</p></div>
-        </div>
-      </a>
+<div class="projects">
+  {% for category in page.display_categories %}
+    <a id="{{ category }}" href=".#{{ category }}"><h2 class="category">{{ category }}</h2></a>
+    {% assign categorized_projects = site.projects | where: "category", category %}
+    {% assign sorted_projects = categorized_projects | sort: "importance" %}
+    <div class="row row-cols-1 row-cols-md-3">
+      {% for project in sorted_projects %}
+        {% include projects.liquid %}
+      {% endfor %}
     </div>
   {% endfor %}
 </div>
