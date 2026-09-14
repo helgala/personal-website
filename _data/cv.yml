@@ -8,7 +8,7 @@ cv:
     countryCode: US
   url: https://helgala.github.io/personal-website/
   sections:
-    Appointments:
+    Experience:
       - company: University at Albany
         position: Associate Professor, Electrical and Computer Engineering
         start_date: 2022
