@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Selected research and academic initiatives led or supported by Hany Elgala.
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [research]
 horizontal: false
 ---

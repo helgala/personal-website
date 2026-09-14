@@ -2,8 +2,7 @@
 layout: page
 title: people
 permalink: /people/
-nav: true
-nav_order: 5
+nav: false
 description: Students and researchers mentored by Hany Elgala.
 ---
 

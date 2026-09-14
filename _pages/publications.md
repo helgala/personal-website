@@ -3,8 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Publications by Hany Elgala.
-nav: true
-nav_order: 3
+nav: false
 ---
 
 Publications by Hany Elgala, in reverse chronological order. Each entry links to the available Google Scholar record.

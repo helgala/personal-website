@@ -1,8 +1,7 @@
 ---
 layout: page
 title: research
-nav: true
-nav_order: 2
+nav: false
 dropdown: true
 children:
   - title: research themes
