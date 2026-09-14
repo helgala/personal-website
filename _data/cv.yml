@@ -1,0 +1,49 @@
+basics:
+  name: Hany Elgala
+  label: Associate Professor of Electrical and Computer Engineering
+  email: helgala@albany.edu
+  location:
+    city: Albany
+    region: New York
+    countryCode: US
+  url: https://helgala.github.io/personal-website/
+sections:
+  Appointments:
+    - name: University at Albany
+      position: Associate Professor, Electrical and Computer Engineering
+      start_date: 2022
+      end_date: Present
+    - name: University at Albany
+      position: Associate Director, AI & Society College
+      start_date: 2025
+      end_date: Present
+    - name: University at Albany
+      position: Program Director, M.S. in Electrical and Computer Engineering
+      start_date: 2023
+      end_date: Present
+    - name: Boston University
+      position: Research Professor
+      start_date: 2014
+      end_date: 2015
+  Education:
+    - institution: Constructor University, Germany
+      studyType: Ph.D.
+      area: Electrical Engineering
+      end_date: 2010
+    - institution: Furtwangen University, Germany
+      studyType: M.S.
+      area: Communications Engineering
+      end_date: 2003
+    - institution: Ain Shams University, Egypt
+      studyType: B.S.
+      area: Electrical Engineering
+      end_date: 2000
+  Honors and Awards:
+    - name: Catalyst Award, College of Nanotechnology, Science, and Engineering
+      date: Spring 2026
+    - name: TÜBİTAK Visiting Scientist Fellow
+      date: 2025–2026
+    - name: Best Paper Award, IEEE MECOM
+      date: 2024
+    - name: Alexander von Humboldt Experienced Researcher Fellow
+      date: 2022–2024
